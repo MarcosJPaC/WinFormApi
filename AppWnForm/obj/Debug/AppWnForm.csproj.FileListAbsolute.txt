@@ -1,0 +1,140 @@
+C:\Users\marco\source\repos\AppWnForm\AppWnForm\bin\Debug\AppWnForm.exe.config
+C:\Users\marco\source\repos\AppWnForm\AppWnForm\bin\Debug\AppWnForm.exe
+C:\Users\marco\source\repos\AppWnForm\AppWnForm\bin\Debug\AppWnForm.pdb
+C:\Users\marco\source\repos\AppWnForm\AppWnForm\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\marco\source\repos\AppWnForm\AppWnForm\bin\Debug\System.Buffers.dll
+C:\Users\marco\source\repos\AppWnForm\AppWnForm\bin\Debug\System.Memory.dll
+C:\Users\marco\source\repos\AppWnForm\AppWnForm\bin\Debug\System.Net.Http.Json.dll
+C:\Users\marco\source\repos\AppWnForm\AppWnForm\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\marco\source\repos\AppWnForm\AppWnForm\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\marco\source\repos\AppWnForm\AppWnForm\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\marco\source\repos\AppWnForm\AppWnForm\bin\Debug\System.Text.Json.dll
+C:\Users\marco\source\repos\AppWnForm\AppWnForm\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\marco\source\repos\AppWnForm\AppWnForm\bin\Debug\System.ValueTuple.dll
+C:\Users\marco\source\repos\AppWnForm\AppWnForm\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\marco\source\repos\AppWnForm\AppWnForm\bin\Debug\System.Buffers.xml
+C:\Users\marco\source\repos\AppWnForm\AppWnForm\bin\Debug\System.Memory.xml
+C:\Users\marco\source\repos\AppWnForm\AppWnForm\bin\Debug\System.Net.Http.Json.xml
+C:\Users\marco\source\repos\AppWnForm\AppWnForm\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\marco\source\repos\AppWnForm\AppWnForm\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\marco\source\repos\AppWnForm\AppWnForm\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\marco\source\repos\AppWnForm\AppWnForm\bin\Debug\System.Text.Json.xml
+C:\Users\marco\source\repos\AppWnForm\AppWnForm\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\marco\source\repos\AppWnForm\AppWnForm\bin\Debug\System.ValueTuple.xml
+C:\Users\marco\source\repos\AppWnForm\AppWnForm\obj\Debug\AppWnForm.csproj.AssemblyReference.cache
+C:\Users\marco\source\repos\AppWnForm\AppWnForm\obj\Debug\AppWnForm.Form1.resources
+C:\Users\marco\source\repos\AppWnForm\AppWnForm\obj\Debug\AppWnForm.Properties.Resources.resources
+C:\Users\marco\source\repos\AppWnForm\AppWnForm\obj\Debug\AppWnForm.csproj.GenerateResource.cache
+C:\Users\marco\source\repos\AppWnForm\AppWnForm\obj\Debug\AppWnForm.csproj.CoreCompileInputs.cache
+C:\Users\marco\source\repos\AppWnForm\AppWnForm\obj\Debug\AppWnForm.csproj.Up2Date
+C:\Users\marco\source\repos\AppWnForm\AppWnForm\obj\Debug\AppWnForm.exe
+C:\Users\marco\source\repos\AppWnForm\AppWnForm\obj\Debug\AppWnForm.pdb
+C:\Users\marco\source\repos\AppWnForm\AppWnForm\obj\Debug\AppWnForm.RegisterForm.resources
+C:\Users\marco\source\repos\AppWnForm\AppWnForm\obj\Debug\AppWnForm.MainForm.resources
+C:\Users\marco\source\repos\AppWnForm\AppWnForm\obj\Debug\AppWnForm.ProductsForm.resources
+C:\Users\Marcos\Downloads\AppWnForm\AppWnForm\AppWnForm\obj\Debug\AppWnForm.csproj.AssemblyReference.cache
+C:\Users\Marcos\Downloads\AppWnForm\AppWnForm\AppWnForm\obj\Debug\AppWnForm.Form1.resources
+C:\Users\Marcos\Downloads\AppWnForm\AppWnForm\AppWnForm\obj\Debug\AppWnForm.MainForm.resources
+C:\Users\Marcos\Downloads\AppWnForm\AppWnForm\AppWnForm\obj\Debug\AppWnForm.ProductsForm.resources
+C:\Users\Marcos\Downloads\AppWnForm\AppWnForm\AppWnForm\obj\Debug\AppWnForm.Properties.Resources.resources
+C:\Users\Marcos\Downloads\AppWnForm\AppWnForm\AppWnForm\obj\Debug\AppWnForm.RegisterForm.resources
+C:\Users\Marcos\Downloads\AppWnForm\AppWnForm\AppWnForm\obj\Debug\AppWnForm.csproj.GenerateResource.cache
+C:\Users\Marcos\Downloads\AppWnForm\AppWnForm\AppWnForm\obj\Debug\AppWnForm.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Downloads\AppWnForm\AppWnForm\AppWnForm\obj\Debug\AppWnForm.exe
+C:\Users\Marcos\Downloads\AppWnForm\AppWnForm\AppWnForm\obj\Debug\AppWnForm.pdb
+C:\Users\Marcos\Downloads\AppWnForm\AppWnForm\AppWnForm\bin\Debug\AppWnForm.exe.config
+C:\Users\Marcos\Downloads\AppWnForm\AppWnForm\AppWnForm\bin\Debug\AppWnForm.exe
+C:\Users\Marcos\Downloads\AppWnForm\AppWnForm\AppWnForm\bin\Debug\AppWnForm.pdb
+C:\Users\Marcos\Downloads\AppWnForm\AppWnForm\AppWnForm\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Marcos\Downloads\AppWnForm\AppWnForm\AppWnForm\bin\Debug\System.Buffers.dll
+C:\Users\Marcos\Downloads\AppWnForm\AppWnForm\AppWnForm\bin\Debug\System.Memory.dll
+C:\Users\Marcos\Downloads\AppWnForm\AppWnForm\AppWnForm\bin\Debug\System.Net.Http.Json.dll
+C:\Users\Marcos\Downloads\AppWnForm\AppWnForm\AppWnForm\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Marcos\Downloads\AppWnForm\AppWnForm\AppWnForm\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Marcos\Downloads\AppWnForm\AppWnForm\AppWnForm\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Marcos\Downloads\AppWnForm\AppWnForm\AppWnForm\bin\Debug\System.Text.Json.dll
+C:\Users\Marcos\Downloads\AppWnForm\AppWnForm\AppWnForm\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Marcos\Downloads\AppWnForm\AppWnForm\AppWnForm\bin\Debug\System.ValueTuple.dll
+C:\Users\Marcos\Downloads\AppWnForm\AppWnForm\AppWnForm\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Marcos\Downloads\AppWnForm\AppWnForm\AppWnForm\bin\Debug\System.Buffers.xml
+C:\Users\Marcos\Downloads\AppWnForm\AppWnForm\AppWnForm\bin\Debug\System.Memory.xml
+C:\Users\Marcos\Downloads\AppWnForm\AppWnForm\AppWnForm\bin\Debug\System.Net.Http.Json.xml
+C:\Users\Marcos\Downloads\AppWnForm\AppWnForm\AppWnForm\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Marcos\Downloads\AppWnForm\AppWnForm\AppWnForm\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Marcos\Downloads\AppWnForm\AppWnForm\AppWnForm\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Marcos\Downloads\AppWnForm\AppWnForm\AppWnForm\bin\Debug\System.Text.Json.xml
+C:\Users\Marcos\Downloads\AppWnForm\AppWnForm\AppWnForm\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Marcos\Downloads\AppWnForm\AppWnForm\AppWnForm\bin\Debug\System.ValueTuple.xml
+C:\Users\Marcos\Downloads\AppWnForm\AppWnForm\AppWnForm\obj\Debug\AppWnForm.csproj.Up2Date
+C:\Users\costi\Downloads\AppWnForm\AppWnForm\bin\Debug\AppWnForm.exe.config
+C:\Users\costi\Downloads\AppWnForm\AppWnForm\bin\Debug\AppWnForm.exe
+C:\Users\costi\Downloads\AppWnForm\AppWnForm\bin\Debug\AppWnForm.pdb
+C:\Users\costi\Downloads\AppWnForm\AppWnForm\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\costi\Downloads\AppWnForm\AppWnForm\bin\Debug\System.Buffers.dll
+C:\Users\costi\Downloads\AppWnForm\AppWnForm\bin\Debug\System.Memory.dll
+C:\Users\costi\Downloads\AppWnForm\AppWnForm\bin\Debug\System.Net.Http.Json.dll
+C:\Users\costi\Downloads\AppWnForm\AppWnForm\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\costi\Downloads\AppWnForm\AppWnForm\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\costi\Downloads\AppWnForm\AppWnForm\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\costi\Downloads\AppWnForm\AppWnForm\bin\Debug\System.Text.Json.dll
+C:\Users\costi\Downloads\AppWnForm\AppWnForm\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\costi\Downloads\AppWnForm\AppWnForm\bin\Debug\System.ValueTuple.dll
+C:\Users\costi\Downloads\AppWnForm\AppWnForm\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\costi\Downloads\AppWnForm\AppWnForm\bin\Debug\System.Buffers.xml
+C:\Users\costi\Downloads\AppWnForm\AppWnForm\bin\Debug\System.Memory.xml
+C:\Users\costi\Downloads\AppWnForm\AppWnForm\bin\Debug\System.Net.Http.Json.xml
+C:\Users\costi\Downloads\AppWnForm\AppWnForm\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\costi\Downloads\AppWnForm\AppWnForm\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\costi\Downloads\AppWnForm\AppWnForm\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\costi\Downloads\AppWnForm\AppWnForm\bin\Debug\System.Text.Json.xml
+C:\Users\costi\Downloads\AppWnForm\AppWnForm\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\costi\Downloads\AppWnForm\AppWnForm\bin\Debug\System.ValueTuple.xml
+C:\Users\costi\Downloads\AppWnForm\AppWnForm\obj\Debug\AppWnForm.csproj.AssemblyReference.cache
+C:\Users\costi\Downloads\AppWnForm\AppWnForm\obj\Debug\AppWnForm.Form1.resources
+C:\Users\costi\Downloads\AppWnForm\AppWnForm\obj\Debug\AppWnForm.MainForm.resources
+C:\Users\costi\Downloads\AppWnForm\AppWnForm\obj\Debug\AppWnForm.ProductsForm.resources
+C:\Users\costi\Downloads\AppWnForm\AppWnForm\obj\Debug\AppWnForm.Properties.Resources.resources
+C:\Users\costi\Downloads\AppWnForm\AppWnForm\obj\Debug\AppWnForm.RegisterForm.resources
+C:\Users\costi\Downloads\AppWnForm\AppWnForm\obj\Debug\AppWnForm.csproj.GenerateResource.cache
+C:\Users\costi\Downloads\AppWnForm\AppWnForm\obj\Debug\AppWnForm.csproj.CoreCompileInputs.cache
+C:\Users\costi\Downloads\AppWnForm\AppWnForm\obj\Debug\AppWnForm.csproj.Up2Date
+C:\Users\costi\Downloads\AppWnForm\AppWnForm\obj\Debug\AppWnForm.exe
+C:\Users\costi\Downloads\AppWnForm\AppWnForm\obj\Debug\AppWnForm.pdb
+C:\Users\costi\Downloads\AppWnForm\AppWnForm\obj\Debug\AppWnForm.CategoriaModelo.resources
+C:\Users\Marcos\Downloads\ds3\app wn form\AppWnForm\AppWnForm\AppWnForm\bin\Debug\AppWnForm.exe.config
+C:\Users\Marcos\Downloads\ds3\app wn form\AppWnForm\AppWnForm\AppWnForm\bin\Debug\AppWnForm.exe
+C:\Users\Marcos\Downloads\ds3\app wn form\AppWnForm\AppWnForm\AppWnForm\bin\Debug\AppWnForm.pdb
+C:\Users\Marcos\Downloads\ds3\app wn form\AppWnForm\AppWnForm\AppWnForm\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Marcos\Downloads\ds3\app wn form\AppWnForm\AppWnForm\AppWnForm\bin\Debug\System.Buffers.dll
+C:\Users\Marcos\Downloads\ds3\app wn form\AppWnForm\AppWnForm\AppWnForm\bin\Debug\System.Memory.dll
+C:\Users\Marcos\Downloads\ds3\app wn form\AppWnForm\AppWnForm\AppWnForm\bin\Debug\System.Net.Http.Json.dll
+C:\Users\Marcos\Downloads\ds3\app wn form\AppWnForm\AppWnForm\AppWnForm\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Marcos\Downloads\ds3\app wn form\AppWnForm\AppWnForm\AppWnForm\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Marcos\Downloads\ds3\app wn form\AppWnForm\AppWnForm\AppWnForm\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Marcos\Downloads\ds3\app wn form\AppWnForm\AppWnForm\AppWnForm\bin\Debug\System.Text.Json.dll
+C:\Users\Marcos\Downloads\ds3\app wn form\AppWnForm\AppWnForm\AppWnForm\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Marcos\Downloads\ds3\app wn form\AppWnForm\AppWnForm\AppWnForm\bin\Debug\System.ValueTuple.dll
+C:\Users\Marcos\Downloads\ds3\app wn form\AppWnForm\AppWnForm\AppWnForm\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Marcos\Downloads\ds3\app wn form\AppWnForm\AppWnForm\AppWnForm\bin\Debug\System.Buffers.xml
+C:\Users\Marcos\Downloads\ds3\app wn form\AppWnForm\AppWnForm\AppWnForm\bin\Debug\System.Memory.xml
+C:\Users\Marcos\Downloads\ds3\app wn form\AppWnForm\AppWnForm\AppWnForm\bin\Debug\System.Net.Http.Json.xml
+C:\Users\Marcos\Downloads\ds3\app wn form\AppWnForm\AppWnForm\AppWnForm\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Marcos\Downloads\ds3\app wn form\AppWnForm\AppWnForm\AppWnForm\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Marcos\Downloads\ds3\app wn form\AppWnForm\AppWnForm\AppWnForm\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Marcos\Downloads\ds3\app wn form\AppWnForm\AppWnForm\AppWnForm\bin\Debug\System.Text.Json.xml
+C:\Users\Marcos\Downloads\ds3\app wn form\AppWnForm\AppWnForm\AppWnForm\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Marcos\Downloads\ds3\app wn form\AppWnForm\AppWnForm\AppWnForm\bin\Debug\System.ValueTuple.xml
+C:\Users\Marcos\Downloads\ds3\app wn form\AppWnForm\AppWnForm\AppWnForm\obj\Debug\AppWnForm.csproj.AssemblyReference.cache
+C:\Users\Marcos\Downloads\ds3\app wn form\AppWnForm\AppWnForm\AppWnForm\obj\Debug\AppWnForm.CategoriaModelo.resources
+C:\Users\Marcos\Downloads\ds3\app wn form\AppWnForm\AppWnForm\AppWnForm\obj\Debug\AppWnForm.Form1.resources
+C:\Users\Marcos\Downloads\ds3\app wn form\AppWnForm\AppWnForm\AppWnForm\obj\Debug\AppWnForm.MainForm.resources
+C:\Users\Marcos\Downloads\ds3\app wn form\AppWnForm\AppWnForm\AppWnForm\obj\Debug\AppWnForm.ProductsForm.resources
+C:\Users\Marcos\Downloads\ds3\app wn form\AppWnForm\AppWnForm\AppWnForm\obj\Debug\AppWnForm.Properties.Resources.resources
+C:\Users\Marcos\Downloads\ds3\app wn form\AppWnForm\AppWnForm\AppWnForm\obj\Debug\AppWnForm.RegisterForm.resources
+C:\Users\Marcos\Downloads\ds3\app wn form\AppWnForm\AppWnForm\AppWnForm\obj\Debug\AppWnForm.csproj.GenerateResource.cache
+C:\Users\Marcos\Downloads\ds3\app wn form\AppWnForm\AppWnForm\AppWnForm\obj\Debug\AppWnForm.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Downloads\ds3\app wn form\AppWnForm\AppWnForm\AppWnForm\obj\Debug\AppWnForm.csproj.Up2Date
+C:\Users\Marcos\Downloads\ds3\app wn form\AppWnForm\AppWnForm\AppWnForm\obj\Debug\AppWnForm.exe
+C:\Users\Marcos\Downloads\ds3\app wn form\AppWnForm\AppWnForm\AppWnForm\obj\Debug\AppWnForm.pdb
+C:\Users\Marcos\Downloads\ds3\app wn form\AppWnForm\AppWnForm\AppWnForm\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Marcos\Downloads\ds3\app wn form\AppWnForm\AppWnForm\AppWnForm\bin\Debug\Newtonsoft.Json.xml
