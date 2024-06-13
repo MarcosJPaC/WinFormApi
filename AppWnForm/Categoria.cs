@@ -118,18 +118,17 @@ namespace AppWnForm
                 }
                 else
                 {
-                    MessageBox.Show("Error al actualizar el producto. Por favor, inténtalo de nuevo." + e);
+                    MessageBox.Show("Error al actualizar el producto. Por favor, inténtalo de nuevo.");
                 }
             }
             else
             {
                 MessageBox.Show("Selecciona un producto para actualizar.");
             }
-            
         }
         private HttpResponseMessage ActualizarProductoSync(int idProducto, Categoria producto)
         {
-            Task<HttpResponseMessage> task = Task.Run(() => _httpClient.PutAsJsonAsync($"Categoria/ActualizarCategoria/UpdateCategoria/{idProducto}", producto));
+            Task<HttpResponseMessage> task = Task.Run(() => _httpClient.PutAsJsonAsync($"Categoria/ActualizarCategoria/Update/{idProducto}", producto));
             return task.Result;
         }
 
@@ -188,6 +187,39 @@ namespace AppWnForm
             {
                 MessageBox.Show($"Error al insertar la categoría: {ex.Message}");
                 throw;
+            }
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            if (dataGridView1.SelectedRows.Count > 0)
+            {
+                int idProducto = Convert.ToInt32(dataGridView1.SelectedRows[0].Cells["idCategoria"].Value);
+
+                Categoria productoActualizado = new Categoria
+                {
+                    idCategoria = idProducto,
+                    nombre = txtNombre.Text,
+                    descripcion = txtDescripcion.Text,
+                    estado = txtPrecio.Text,
+                    status = 0, // Cambiar el estado a 1
+                };
+
+                HttpResponseMessage response = ActualizarProductoSync(idProducto, productoActualizado);
+
+                if (response.IsSuccessStatusCode)
+                {
+                    MessageBox.Show("Producto actualizado correctamente.");
+                    LoadDataAsync();
+                }
+                else
+                {
+                    MessageBox.Show("Error al actualizar el producto. Por favor, inténtalo de nuevo.");
+                }
+            }
+            else
+            {
+                MessageBox.Show("Selecciona un producto para actualizar.");
             }
         }
 

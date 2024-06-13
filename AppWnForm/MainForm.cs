@@ -28,5 +28,30 @@ namespace AppWnForm
             CategoriaModelo prod = new CategoriaModelo();
             prod.Show();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Cliente prod = new Cliente();
+            prod.Show();
+
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            Proveedor prod = new Proveedor();
+            prod.Show();
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            Empleado prod = new Empleado();
+            prod.Show();
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            VentaForm prod = new VentaForm();
+            prod.Show();
+        }
     }
 }

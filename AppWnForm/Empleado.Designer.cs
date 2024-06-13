@@ -1,6 +1,6 @@
 ﻿namespace AppWnForm
 {
-    partial class CategoriaModelo
+    partial class Empleado
     {
         /// <summary>
         /// Required designer variable.
@@ -46,7 +46,7 @@
             // button1
             // 
             this.button1.Location = new System.Drawing.Point(623, 356);
-            this.button1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.button1.Margin = new System.Windows.Forms.Padding(4);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(93, 44);
             this.button1.TabIndex = 23;
@@ -57,7 +57,7 @@
             // btnInsert
             // 
             this.btnInsert.Location = new System.Drawing.Point(521, 356);
-            this.btnInsert.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btnInsert.Margin = new System.Windows.Forms.Padding(4);
             this.btnInsert.Name = "btnInsert";
             this.btnInsert.Size = new System.Drawing.Size(93, 44);
             this.btnInsert.TabIndex = 22;
@@ -100,7 +100,7 @@
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(50, 16);
             this.label3.TabIndex = 18;
-            this.label3.Text = "Estado";
+            this.label3.Text = "Salario";
             // 
             // txtPrecio
             // 
@@ -115,9 +115,9 @@
             this.label2.AutoSize = true;
             this.label2.Location = new System.Drawing.Point(149, 336);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(79, 16);
+            this.label2.Size = new System.Drawing.Size(49, 16);
             this.label2.TabIndex = 16;
-            this.label2.Text = "Descripcion";
+            this.label2.Text = "Puesto";
             // 
             // txtDescripcion
             // 
@@ -155,7 +155,7 @@
             this.dataGridView1.Size = new System.Drawing.Size(751, 256);
             this.dataGridView1.TabIndex = 12;
             // 
-            // CategoriaModelo
+            // Empleado
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -172,10 +172,10 @@
             this.Controls.Add(this.label1);
             this.Controls.Add(this.txtNombre);
             this.Controls.Add(this.dataGridView1);
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
-            this.Name = "CategoriaModelo";
-            this.Text = "Categoria";
-            this.Load += new System.EventHandler(this.CategoriaModelo_Load);
+            this.Margin = new System.Windows.Forms.Padding(4);
+            this.Name = "Empleado";
+            this.Text = "Empleado";
+            this.Load += new System.EventHandler(this.Cliente_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();

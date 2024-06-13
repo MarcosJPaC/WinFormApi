@@ -16,7 +16,7 @@ namespace AppWnForm
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new CategoriaModelo());
+            Application.Run(new Form1());
         }
     }
 }

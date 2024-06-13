@@ -1,6 +1,6 @@
 ﻿namespace AppWnForm
 {
-    partial class CategoriaModelo
+    partial class VentaForm
     {
         /// <summary>
         /// Required designer variable.
@@ -33,8 +33,6 @@
             this.label4 = new System.Windows.Forms.Label();
             this.txtid = new System.Windows.Forms.TextBox();
             this.btnGetAllProducts = new System.Windows.Forms.Button();
-            this.label3 = new System.Windows.Forms.Label();
-            this.txtPrecio = new System.Windows.Forms.TextBox();
             this.label2 = new System.Windows.Forms.Label();
             this.txtDescripcion = new System.Windows.Forms.TextBox();
             this.label1 = new System.Windows.Forms.Label();
@@ -46,7 +44,7 @@
             // button1
             // 
             this.button1.Location = new System.Drawing.Point(623, 356);
-            this.button1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.button1.Margin = new System.Windows.Forms.Padding(4);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(93, 44);
             this.button1.TabIndex = 23;
@@ -57,7 +55,7 @@
             // btnInsert
             // 
             this.btnInsert.Location = new System.Drawing.Point(521, 356);
-            this.btnInsert.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btnInsert.Margin = new System.Windows.Forms.Padding(4);
             this.btnInsert.Name = "btnInsert";
             this.btnInsert.Size = new System.Drawing.Size(93, 44);
             this.btnInsert.TabIndex = 22;
@@ -93,31 +91,14 @@
             this.btnGetAllProducts.UseVisualStyleBackColor = true;
             this.btnGetAllProducts.Click += new System.EventHandler(this.btnGetAllProducts_Click);
             // 
-            // label3
-            // 
-            this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(275, 336);
-            this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(50, 16);
-            this.label3.TabIndex = 18;
-            this.label3.Text = "Estado";
-            // 
-            // txtPrecio
-            // 
-            this.txtPrecio.Location = new System.Drawing.Point(268, 356);
-            this.txtPrecio.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.txtPrecio.Name = "txtPrecio";
-            this.txtPrecio.Size = new System.Drawing.Size(100, 22);
-            this.txtPrecio.TabIndex = 17;
-            // 
             // label2
             // 
             this.label2.AutoSize = true;
             this.label2.Location = new System.Drawing.Point(149, 336);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(79, 16);
+            this.label2.Size = new System.Drawing.Size(38, 16);
             this.label2.TabIndex = 16;
-            this.label2.Text = "Descripcion";
+            this.label2.Text = "Total";
             // 
             // txtDescripcion
             // 
@@ -132,9 +113,9 @@
             this.label1.AutoSize = true;
             this.label1.Location = new System.Drawing.Point(36, 336);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(56, 16);
+            this.label1.Size = new System.Drawing.Size(45, 16);
             this.label1.TabIndex = 14;
-            this.label1.Text = "Nombre";
+            this.label1.Text = "Fecha";
             // 
             // txtNombre
             // 
@@ -155,7 +136,7 @@
             this.dataGridView1.Size = new System.Drawing.Size(751, 256);
             this.dataGridView1.TabIndex = 12;
             // 
-            // CategoriaModelo
+            // VentaForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -165,17 +146,15 @@
             this.Controls.Add(this.label4);
             this.Controls.Add(this.txtid);
             this.Controls.Add(this.btnGetAllProducts);
-            this.Controls.Add(this.label3);
-            this.Controls.Add(this.txtPrecio);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.txtDescripcion);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.txtNombre);
             this.Controls.Add(this.dataGridView1);
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
-            this.Name = "CategoriaModelo";
+            this.Margin = new System.Windows.Forms.Padding(4);
+            this.Name = "VentaForm";
             this.Text = "Categoria";
-            this.Load += new System.EventHandler(this.CategoriaModelo_Load);
+            this.Load += new System.EventHandler(this.VentaForm_Load_1);
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
@@ -189,8 +168,6 @@
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.TextBox txtid;
         private System.Windows.Forms.Button btnGetAllProducts;
-        private System.Windows.Forms.Label label3;
-        private System.Windows.Forms.TextBox txtPrecio;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.TextBox txtDescripcion;
         private System.Windows.Forms.Label label1;
